@@ -1,0 +1,2 @@
+# dimialarm
+command project
